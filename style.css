@@ -1,0 +1,113 @@
+body {
+    font: normal 15px Arial;
+
+}
+
+#Lojinha{
+
+display: flex;
+justify-content: center;
+font-weight: bold;
+
+}
+
+#itens_section {
+
+    display: flex;
+
+}
+
+.itens_loja {
+
+    width: 400px;
+
+    height: 400px;
+    border: 2px solid #a3b4c7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+#itens_section2 {
+    display: flex;
+    justify-content: center;
+}
+
+.itens_loja2 {
+
+    width: 350px;
+   
+    height: 400px;
+    border: 2px solid #a3b4c7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    border-radius: 20px;
+
+
+}
+
+
+
+#img {
+
+    width: 50%;
+
+}
+
+
+.div {
+
+
+    font-size: 2em;
+    font-weight: bold;
+
+
+}
+
+.div2 {
+
+
+    font-size: 1em;
+
+    position: relative;
+    top: 3%;
+    right: 9%;
+
+}
+
+.div3 {
+
+
+    font-size: 1em;
+
+    position: relative;
+
+    left: 10%;
+    bottom: 1%;
+
+}
+
+.div4 {
+
+
+    position: relative;
+    bottom: 20%;
+    font-weight: bold;
+    padding: 120px;
+
+}
+
+.div5 {
+
+
+    position: relative;
+    top: -45%;
+
+
+
+}
+
